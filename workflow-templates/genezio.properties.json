@@ -1,0 +1,14 @@
+{
+    "name": "Deploy with genezio",
+    "description": "Deploy your project with genezio on a serverless infrastructure",
+    "iconName": "genezio",
+    "categories": [
+        "deployment",
+        "TypeScript",
+        "JavaScript",
+        "Dart"
+    ],
+    "filePatterns": [
+        "genezio.yaml$"
+    ]
+}
